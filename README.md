@@ -39,7 +39,7 @@ These datasets consist of audio files labeled with various emotions, such as hap
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/speech-emotion-recognition.git
+   git clone https://github.com/sriharshan136/Speech-Emotion-Recognition-CNN-LSTM.git
    cd speech-emotion-recognition
    ```
 
